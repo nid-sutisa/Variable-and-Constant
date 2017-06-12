@@ -11,3 +11,8 @@ intNumber = 456
 
 //Explicit
 let myConstant1: Int = 123
+
+//display on console
+print(intNumber) //display only
+
+print("intNumber ===> \(intNumber)") //display string and value
